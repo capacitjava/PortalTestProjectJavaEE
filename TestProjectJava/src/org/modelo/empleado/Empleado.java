@@ -18,6 +18,4 @@ public class Empleado {
 		this.name = name;
 	}
 	
-	
-
 }
